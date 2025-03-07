@@ -1,0 +1,33 @@
+.table-hover tbody tr:hover {
+    background-color: rgba(0,0,0,.075);
+}
+.book-table th {
+    background-color: #343a40;
+    color: white;
+}
+.form-section {
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 2rem;
+    border: 1px solid #dee2e6;
+    border-radius: .5rem;
+}
+
+.table-hover tbody tr:hover {
+    background-color: #f8f9fa;
+    cursor: pointer;
+}
+.book-details img {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border-radius: 4px;
+}
+.book-info p {
+    font-size: 1.1rem;
+    margin-bottom: 0.8rem;
+}
+
+.btn-sm {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.875rem;
+    line-height: 1.5;
+}
